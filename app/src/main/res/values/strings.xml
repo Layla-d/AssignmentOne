@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string-array name="searches">
+        <item>Any</item>
+        <item>Title</item>
+        <item>Year</item>
+        <item>Genre</item>
+    </string-array>
+</resources>
